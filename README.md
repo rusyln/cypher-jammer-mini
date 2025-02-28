@@ -46,9 +46,9 @@ This is an ESP32 wireless pentesting device that generates 2.4GHz signals at var
 ## PINS TO ATTACH NRF24L01 TO ESP32 C3 SuperMini
 ESP32 C3 only has 1 SPI bus to use, so you connect both NRF24s the the same SPI pins.
 
-### FOR 3 NRF24s
+### FOR 2 NRF24s
 + Radio 1 ` SPI= SCK = 4, MISO =5, MOSI = 6 ,CS =21 ,CE = 20`
-+ Radio 12` SPI= SCK = 4, MISO =5, MOSI = 6 ,CS =10 ,CE = 7`
++ Radio 2 ` SPI= SCK = 4, MISO =5, MOSI = 6 ,CS =10 ,CE = 7`
 
 
 ** edit code here to change radios **
