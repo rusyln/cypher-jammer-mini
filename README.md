@@ -32,7 +32,7 @@ This is an ESP32 wireless pentesting device that generates 2.4GHz signals at var
 - https://amzn.to/41cax0I
 
 2. `1pc ESP32-C3 SuperMini`
-- https://amzn.to/40UCOaV
+- https://amzn.to/4ild5j6
 
 
 3. `10UF-100UF CAPACITOR ` 
