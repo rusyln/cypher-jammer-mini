@@ -18,7 +18,6 @@
 #include <BLEUtils.h>
 #include <BLEScan.h>
 #include <BLEAdvertisedDevice.h>
-#include <BleKeyboard.h>
 #include <BLEServer.h>
 // WIFI
 #include <WiFi.h>
