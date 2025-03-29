@@ -1,6 +1,9 @@
 # cypher-jammer-mini
 Tiny WiFi + Bluetooth Jammer w/ ESP32-C3 SuperMini
 
+Forked to Brother Cypher
+
+
 ### Open-source Wireless Jamming Pentesting Device using ESP32-C3 SuperMini & 2 NRFL01+PA+LNA Modules
 
 This is an ESP32 wireless pentesting device that generates 2.4GHz signals at various channels. This is an upgrade to the previous cypher-jammer, and adds an SSD1306 display and buttons. This allows much more flexibility when using the device.
