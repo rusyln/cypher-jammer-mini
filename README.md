@@ -10,8 +10,6 @@ This is an ESP32 wireless pentesting device that generates 2.4GHz signals at var
 
 ** PCB COMING SOON **
 
-### Order my PCBs from other projects from PCBWay & get a $10 coupon ^_^ : https://pcbway.com/g/87Pi52
-
 <img src="img/device2.jpg" alt="Wifi and Bluetooth jammer made with an esp32 and nrf24l01+pa+lna modules." width="600" height="600">
 <img src="img/device3.jpg" alt="Wifi and Bluetooth jammer made with an esp32 and nrf24l01+pa+lna modules." width="600" height="600">
 <img src="img/device4.jpg" alt="Wifi and Bluetooth jammer made with an esp32 and nrf24l01+pa+lna modules." width="600" height="600">
